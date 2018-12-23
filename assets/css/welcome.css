@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+@import url('https://fonts.googleapis.com/css?family=ZCOOL+XiaoWei');
+
+.main-container {
+    margin-top: 15%;
+    text-align: center;
+}
+
+.main-container .welcome-text {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 30px;
+    display: none;
+}
+
+.main-container .more-info {
+    margin-top: 15px;
+    font-family: 'ZCOOL XiaoWei', serif;
+    font-size: 30px;
+    display: none;
+}
